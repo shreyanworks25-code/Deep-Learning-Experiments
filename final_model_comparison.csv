@@ -1,0 +1,7 @@
+Model,Accuracy
+Logistic Regression,0.9824561403508771
+ANN,0.9561403393745422
+Basic CNN,0.6888999938964844
+CNN + Dropout,0.6565999984741211
+CNN + Augmentation + Dropout,0.5937
+Transfer Learning,0.7720000147819519
